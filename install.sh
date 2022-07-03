@@ -17,4 +17,4 @@ sudo pacman -S base-devel
   cargo --version
   
 # Packages
-sudo pacman -S qbittorrent 
+sudo pacman -S blender brave-browser flameshot qbittorrent vlc 
