@@ -4,5 +4,5 @@ import os
 os.system("sudo pacman -S base-devel")
 
 # Languages
-  # python
+# python
 os.system("sudo pacman -S python-pip")
