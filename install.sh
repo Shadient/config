@@ -1,7 +1,7 @@
 # base devel
 sudo pacman -S base-devel
 
-# Languages
+# LANGUAGE ---
   # python
   sudo pacman -S python-pip # for Python3
 
@@ -17,5 +17,5 @@ sudo pacman -S base-devel
   source ~/.bashrc
   cargo --version
   
-# Packages
+# PACKAGES ---
 # sudo pacman -S blender brave-browser flameshot qbittorrent vlc 
