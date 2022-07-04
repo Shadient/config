@@ -7,10 +7,9 @@ sudo pacman -S base-devel
 
   # Node & NPM
   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-  sleep 1
   source ~/.bashrc
-  sleep 1
   nvm install --lts
+  source ~/.bashrc
   npm install -g npm@8.13.2
   
   # Rust
@@ -19,4 +18,4 @@ sudo pacman -S base-devel
   cargo --version
   
 # Packages
-sudo pacman -S blender brave-browser flameshot qbittorrent vlc 
+# sudo pacman -S blender brave-browser flameshot qbittorrent vlc 
