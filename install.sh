@@ -16,6 +16,9 @@ sudo pacman -S base-devel
   curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
   source ~/.bashrc
   cargo --version
-  
+
 # PACKAGES ---
-# sudo pacman -S blender brave-browser flameshot qbittorrent vlc 
+# sudo pacman -S blender brave-browser flameshot polybar qbittorrent tmux vlc 
+
+# POLYBAR
+# I3
